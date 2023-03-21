@@ -9,10 +9,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: metrics-profile
+        uses: lowlighter/metrics@latest
         with:
           config_timezone: Asia/Seoul
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_recent_days: 365
           token: ${{ secrets.METRICS_TOKEN }}
