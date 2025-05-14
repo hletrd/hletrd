@@ -6,7 +6,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: linux-arm64
+    runs-on: self-hosted
     permissions:
       contents: write
     steps:
