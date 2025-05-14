@@ -1,5 +1,10 @@
+<p align="center">
+  <img height="200" align="center" src="https://github-readme-stats-two-lovat-50.vercel.app/api?username=hletrd&show_icons=true&theme=dracula&disable_animations=true" />
+  <img height="200" align="center" src="https://github-readme-stats-two-lovat-50.vercel.app/api/top-langs/?username=hletrd&layout=compact&theme=dracula&disable_animations=true" />
+</p>
+
 ![Profile](metrics-profile.svg)
-![Languages](metrics-languages.svg)
+
 ![Habits](metrics-habits.svg)
 
 
