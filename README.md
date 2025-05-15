@@ -1,6 +1,6 @@
-![GitHub stats](https://github-readme-stats-two-lovat-50.vercel.app/api?username=hletrd&show_icons=true&disable_animations=true&theme=dracula)
+![GitHub stats](https://github-readme-stats-two-lovat-50.vercel.app/api?username=hletrd&show_icons=true&card_width=480&disable_animations=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats-two-lovat-50.vercel.app/api/top-langs/?username=hletrd&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=467&disable_animations=true&theme=dracula)
+![Top Langs](https://github-readme-stats-two-lovat-50.vercel.app/api/top-langs/?username=hletrd&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=480&disable_animations=true&theme=dracula)
 
 ![Profile](metrics-profile.svg)
 

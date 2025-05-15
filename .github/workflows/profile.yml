@@ -10,6 +10,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Configure git
+        run: |
+          git config --global user.name  "[Bot] metrics"
+          git config --global user.email "9067894+hletrd@users.noreply.github.com"
 
       - name: metrics-profile
         uses: lowlighter/metrics@master
