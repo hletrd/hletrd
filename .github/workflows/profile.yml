@@ -40,7 +40,7 @@ jobs:
 
       - name: metrics-languages
         uses: lowlighter/metrics@master
-        timeout-minutes: 10
+        timeout-minutes: 30
         with:
           filename: metrics-languages.svg
           config_timezone: Asia/Seoul
@@ -50,6 +50,6 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 365
           plugin_languages_details: lines
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_analysis_timeout: 120
+          plugin_languages_analysis_timeout_repositories: 60
           token: ${{ secrets.METRICS_TOKEN }}
