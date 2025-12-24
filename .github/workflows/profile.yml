@@ -16,7 +16,7 @@ jobs:
           git config --global user.email "9067894+hletrd@users.noreply.github.com"
 
       - name: metrics-profile
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         timeout-minutes: 10
         with:
           filename: metrics-profile.svg
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: metrics-habits
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         timeout-minutes: 10
         with:
           filename: metrics-habits.svg
@@ -33,13 +33,13 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_from: 1000
+          plugin_habits_from: 500
           plugin_habits_days: 30
           plugin_habits_charts_type: graph
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: metrics-languages
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         timeout-minutes: 30
         with:
           filename: metrics-languages.svg
