@@ -24,8 +24,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: metrics-habits
-        uses: lowlighter/metrics@latest
-        timeout-minutes: 10
+        uses: hletrd/metrics@master
+        timeout-minutes: 30
         with:
           filename: metrics-habits.svg
           config_timezone: Asia/Seoul
@@ -33,7 +33,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_from: 500
+          plugin_habits_from: 1000
           plugin_habits_days: 30
           plugin_habits_charts_type: graph
           token: ${{ secrets.METRICS_TOKEN }}
