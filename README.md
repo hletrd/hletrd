@@ -5,34 +5,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=282a36&height=1" width="100%" />
 
-<div align="center">
-<table border="0" frame="void" rules="none" cellspacing="0" cellpadding="0">
-<tr>
-<td width="59%">
-<img src="https://streak-stats.demolab.com/?user=hletrd&theme=dracula&hide_border=true&background=282a36" width="100%" />
-</td>
-<td width="41%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hletrd&theme=dracula&utcOffset=9" width="100%" />
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hletrd&theme=dracula&hide_border=true&background=282a36" width="59%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hletrd&theme=dracula&utcOffset=9" width="40%" />
+</p>
 
-<div align="center">
-<table border="0" frame="void" rules="none" cellspacing="0" cellpadding="0">
-<tr>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hletrd&theme=dracula" width="100%" />
-</td>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hletrd&theme=dracula" width="100%" />
-</td>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hletrd&theme=dracula" width="100%" />
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hletrd&theme=dracula" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hletrd&theme=dracula" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hletrd&theme=dracula" width="33%" />
+</p>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hletrd&theme=dracula" width="100%" />
