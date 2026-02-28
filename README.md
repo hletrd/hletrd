@@ -10,12 +10,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hletrd&theme=dracula&utcOffset=9" width="40%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hletrd&theme=dracula" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hletrd&theme=dracula" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hletrd&theme=dracula" width="33%" />
-</p>
-
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hletrd&theme=dracula" width="100%" />
 </div>
