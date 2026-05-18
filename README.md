@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=hletrd&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=0x68+0x6C+0x65+0x74+0x72+0x64&descSize=14&descAlignY=55&descAlign=50" width="100%" />
 
-* Platform Team Lead @ Maum AI Inc.
 * PhD Candidate @ Seoul National University
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=282a36&height=1" width="100%" />
