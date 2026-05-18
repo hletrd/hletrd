@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=hletrd&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=0x68+0x6C+0x65+0x74+0x72+0x64&descSize=14&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=hletrd&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jiyong+Youn&descSize=14&descAlignY=55&descAlign=50" width="100%" />
 
 * PhD Candidate @ Seoul National University
 
