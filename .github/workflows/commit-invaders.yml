@@ -1,0 +1,19 @@
+name: Commit Invaders
+
+on:
+  schedule:
+    - cron: "0 15 * * *"  # 00:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Goblinlordx/commit-invaders@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
